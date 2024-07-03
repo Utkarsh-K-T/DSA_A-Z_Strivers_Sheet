@@ -1,10 +1,10 @@
 # Lec01 : Things to know about c++/python/java
-- 1.1 User Input/Output
-- 1.2 Data Types
-- 1.3 if else statements
-- 1.4 swtich statements
-- 1.5 What are arrays & strings
-- 1.6 for loop
-- 1.7 While loop
-- 1.8 Functions
-- 1.9 Time complexities
+- 01 User Input/Output
+- 02 Data Types
+- 03 if else statements
+- 04 swtich statements
+- 05 What are arrays & strings
+- 06 for loop
+- 07 While loop
+- 08 Functions
+- 09 Time complexities
