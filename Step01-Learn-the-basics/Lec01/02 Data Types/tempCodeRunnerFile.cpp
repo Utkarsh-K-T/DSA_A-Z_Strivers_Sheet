@@ -1,1 +1,0 @@
-cout<<"Integer Types:"<<endl;
